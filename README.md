@@ -1,3 +1,9 @@
-Project Description: This HTML document creates an interactive simulation of randomly colored bouncing balls within a rectangular container. JavaScript generates and animates these balls, applying gravity-like effects to make them bounce off the container's walls. The balls' positions, velocities, and colors are randomly generated, creating an engaging visual display.
+# Random walk
+
+The random walk makes a three ball to bounce between a fixed location in different velocity There are three different color balls and the ball is created in CSS and HTML. It is made to bounce using JavaScript programming
+
+# Steps to Run the Project
+
+Open the github link to run the Random walk program
 
 https://aravind-mca2023.github.io/ball-movement/
