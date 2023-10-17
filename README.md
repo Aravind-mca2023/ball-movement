@@ -6,4 +6,3 @@ The ball movement makes a three ball to bounce between a fixed location in diffe
 
 Open the github link to run the ball movement program
 
-https://aravind-mca2023.github.io/ball-movement/
